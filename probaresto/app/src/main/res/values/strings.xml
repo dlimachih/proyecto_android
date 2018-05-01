@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">probaresto</string>
+    <string name="logo">Inicie Sesion</string>
+    <string name="cuenta">USERNAME</string>
+    <string name="btn_entrar">INICIE SESSION</string>
+    <string name="registrate">No eres miembro? Registrate Ahora</string>
+    <string name="iniciar">O iniciar sesion con</string>
+    <string name="face">Facebook</string>
+    <string name="goo">Google +</string>
+    <string name="titulo">Restaurante</string>
+    <string name="titulo1">Aplicativo en Mantenimiento</string>
+</resources>
